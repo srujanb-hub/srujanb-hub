@@ -10,7 +10,7 @@
   - reading
   - involving in creative works
   - networking
-- 📫 You can reach me @ nvsaisrujan992@gmail.com
+- 📫 You can reach me @ srujan.botlaguduru@yahoo.com /  nvsaisrujan992@gmail.com
 <!---
 itsmesrujan/itsmesrujan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
