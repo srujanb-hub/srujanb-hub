@@ -1,18 +1,28 @@
-- 👋 Hi, I’m Srujan.
-- 👀 I’m interested to
-  - build products which are useful and can create positive impact to the world 🌎.
-  - compile some of the [open source](https://en.wikipedia.org/wiki/Open_source) codes and play around it.
-  - think system design for various domains.
-- 🌱 I secured experience and exposure on multiple domains like [aero](https://en.wikipedia.org/wiki/Aero), camera systems ([surveillance camera](https://en.wikipedia.org/wiki/Surveillance)), security ([smart card](https://en.wikipedia.org/wiki/Smart_card)), storage domain([flash memory](https://en.wikipedia.org/wiki/Flash_memory)), [telecom](https://en.wikipedia.org/wiki/Telecommunications), and travel technology ([airline](https://en.wikipedia.org/wiki/Airline)).
-- 💞️ I’m looking to
-  - collaborate on trending and innovative [Software Development](https://en.wikipedia.org/wiki/Software_development) projects.
-  - work on exciting projects which open doors to the international market.
-- 🧩 Hobbies
-  - reading
-  - involving in creative works
-  - networking
-- 📫 You can reach me @ srujan.botlaguduru@proton.me
-<!---
-itsmesrujan/itsmesrujan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm Srujan - a software engineer passionate about building products that create meaningful impact 🌎
+
+🔭 What I focus on:
+- Designing scalable systems across diverse domains
+- Contributing to open-source projects and experimenting with new technologies
+- Solving complex problems in embedded systems, security, and cloud infrastructure
+
+🏭 Domain experience:
+Aerospace | Surveillance Systems | Smart Card Security | Flash Storage | Telecom | Travel Tech
+
+🛠️ Tech Stack:
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+🤝 I'm looking to collaborate on:
+- Open-source projects in systems programming or infrastructure
+- Innovative products targeting global markets
+- Cross-domain challenges requiring deep technical design
+
+📫 Reach out:
+[![Email](https://img.shields.io/badge/ProtonMail-D63D3A?logo=protonmail&logoColor=white)](mailto:srujan.botlaguduru@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/srujan-botlaguduru/)
+
+✨ Fun outside code:
+Bookworm | DIY projects | Building community through tech meetups
