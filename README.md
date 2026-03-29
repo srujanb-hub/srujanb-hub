@@ -21,7 +21,7 @@ Aerospace | Surveillance Systems | Smart Card Security | Flash Storage | Telecom
 - Cross-domain challenges requiring deep technical design
 
 📫 Reach out:
-[![Email](https://img.shields.io/badge/ProtonMail-D63D3A?logo=protonmail&logoColor=white)](mailto:srujan.botlaguduru@proton.me)
+[![Email](https://img.shields.io/badge/YahooMail-D63D3A?logo=yahoomail&logoColor=white)](mailto:srujan.botlaguduru@yahoo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/srujan-botlaguduru/)
 
 ✨ Fun outside code:
